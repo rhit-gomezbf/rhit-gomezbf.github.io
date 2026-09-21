@@ -1,1 +1,1 @@
-Visit: rhit-gomezbf.github.io
+Visit: http://rhit-gomezbf.github.io/
