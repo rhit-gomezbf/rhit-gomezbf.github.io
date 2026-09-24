@@ -1,3 +1,12 @@
+/*I had fun experimenting with the css styling in a way that would
+/ correctly pass accesibility standards
+/
+/ https://developer.mozilla.org/en-US/docs/Web/CSS
+/ generally used the mdn docs for CSS to review things i didn't remember
+/ and how to add new things, like the cool white circle popping up
+/ behind the footer images, and generally highlighting text and shaping images
+*/
+
 :root {
   --blue: #0b4fb3;
   --navy: #0a2a66;
